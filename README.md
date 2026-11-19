@@ -126,7 +126,7 @@ Body weight measurements demonstrated different responses between normal-diet an
 
 
 <p align="center">
-  <img src="images/ND_graph.png" width="45%">
+  <img src="weight_total_change_individual_mice (1).png" width="45%">
   <img src="weight_week0_vs_week8.png" width="45%">
 </p>
 The restricted-diet groups showed a reduction in mean body weight, with a greater reduction observed in IL-10-deficient mice.
