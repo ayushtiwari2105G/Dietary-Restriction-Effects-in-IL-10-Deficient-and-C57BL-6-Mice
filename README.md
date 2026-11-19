@@ -146,7 +146,7 @@ The following preliminary results were obtained from serum biochemical analysis 
     </td>
     <td align="center">
       <b>Biochemistry Graph Graph 2</b><br>
-      <img src="images/inflammatory_genes.png" width="400">
+      <img src="serum_biochemistry_C57BL6_IL10KO.png" width="400">
     </td>
   </tr>
 </table>
