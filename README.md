@@ -153,10 +153,13 @@ These observations are descriptive. Statistical significance and biological inte
 
 ![Gene Expression Comparison](IL-10_ND_VS_RD.png)
 
+Compared to a Normal Diet (ND), a Restricted Diet (RD) triggers a major metabolic shift away from fat storage and toward energy conservation and fatty acid utilization, though the exact mechanism differs between mouse strains. In B6 mice, RD strongly induces PPAR-b to drive fatty acid oxidation while broadly suppressing fat synthesis (FAS, SCD-1, ACC), glucose production (PEPCK), and mitochondrial biogenesis (PGC-1a/b) to conserve cellular energy. In IL-10 mice (18sRNA), RD similarly shuts down terminal fat synthesis (FAS, SCD-1) and glucose release (G6Pase), but instead boosts mitochondrial fatty acid transport (CPT-1a, PPAR-a), mitochondrial coactivators (PGC-1a/b), and insulin signaling (IRS-1). Together, both strains adapt to caloric restriction by halting lipid accumulation and lowering glucose output, with B6 favoring energy-sparing adaptation and IL-10 relying on heightened mitochondrial lipid oxidation
+
 
 ### 3. Liver Histology
 
 H&E and PAS staining were used to investigate tissue architecture, cellular morphology, and carbohydrate-associated staining.
+
 
 Histological observations are interpreted cautiously, with attention to tissue-processing artefacts and the limitations of representative microscopic fields.
 
