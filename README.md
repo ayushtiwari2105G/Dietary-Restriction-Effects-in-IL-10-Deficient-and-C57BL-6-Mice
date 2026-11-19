@@ -141,11 +141,11 @@ The following preliminary results were obtained from serum biochemical analysis 
 <table>
   <tr>
     <td align="center">
-      <b>Metabolic Gene Expression</b><br>
-      <img src="images/metabolic_genes.png" width="400">
+      <b>Seram Biochemistry Graph 1 </b><br>
+      <img src="Improved_serum_biochemistry_C57BL6_IL10KO.png" width="400">
     </td>
     <td align="center">
-      <b>Inflammatory Gene Expression</b><br>
+      <b>Biochemistry Graph Graph 2</b><br>
       <img src="images/inflammatory_genes.png" width="400">
     </td>
   </tr>
