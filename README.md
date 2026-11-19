@@ -137,6 +137,21 @@ The following preliminary results were obtained from serum biochemical analysis 
 | Total Cholesterol | 98.22 | 82.22 | 115.25 | 95.07 |
 | Triglycerides | 87.78 | 78.38 | 306.40 | 130.49 |
 
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Metabolic Gene Expression</b><br>
+      <img src="images/metabolic_genes.png" width="400">
+    </td>
+    <td align="center">
+      <b>Inflammatory Gene Expression</b><br>
+      <img src="images/inflammatory_genes.png" width="400">
+    </td>
+  </tr>
+</table>
+
+
 *Note: Measurement units should be confirmed from the original laboratory records.*
 
 **Preliminary observations:**
@@ -178,6 +193,7 @@ H&E and PAS staining were performed to examine liver tissue architecture, cellul
 | **Restricted Diet (B/6-RD)** | **Restricted Diet (B/6-RD)** |
 | <img src="b6_rd.png" width="350"> | <img src="b6_rd_pas.png" width="350"> |
 
+B/6 Strain (ND vs. RD): On H&E, switching from ND to RD causes clear hepatocyte shrinkage and loss of cytoplasmic clearing, shifting the cells to a compact, deeply eosinophilic state. The corresponding B/6-RD PAS stains confirm near-complete glycogen depletion, which aligns with your gene expression profile showing suppressed gluconeogenesis (PEPCK 0.44, G6Pase 0.84), suppressed lipogenesis (FAS 0.422, SCD-1 0.506), and elevated fatty acid oxidation (PPAR-b 3.676)
 #### 2. IL-10-Deficient Mice
 
 | H&E Staining | PAS Staining |
@@ -186,8 +202,6 @@ H&E and PAS staining were performed to examine liver tissue architecture, cellul
 | <img src="il10_nd.png" width="350"> | <img src="il10_nd_pas.png" width="350"> |
 | **Restricted Diet (IL-10-RD)** | **Restricted Diet (IL-10-RD)** |
 | <img src="il10_rd.png" width="350"> | <img src="il10_rd_pas.png" width="350"> |
-
-B/6 Strain (ND vs. RD): On H&E, switching from ND to RD causes clear hepatocyte shrinkage and loss of cytoplasmic clearing, shifting the cells to a compact, deeply eosinophilic state. The corresponding B/6-RD PAS stains confirm near-complete glycogen depletion, which aligns with your gene expression profile showing suppressed gluconeogenesis (PEPCK 0.44, G6Pase 0.84), suppressed lipogenesis (FAS 0.422, SCD-1 0.506), and elevated fatty acid oxidation (PPAR-b 3.676)
 
 IL-10 Strain (ND vs. RD): Under ND, IL-10 livers exhibit pronounced hepatocyte ballooning/clearing on H&E paired with intense, diffuse magenta positivity on PAS, indicative of heavy baseline glycogen accumulation. Under RD, PAS staining visibly decreases in intensity (consistent with the strong suppression of G6Pase to 0.15 in your 18sRNA dataset), yet H&E still shows prominent reticulated cytoplasmic clearing. (Note: A B/6-ND PAS image was not included in this set; adding it would provide a direct baseline comparison for B/6 glycogen depletion.)
 
