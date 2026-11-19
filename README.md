@@ -124,6 +124,11 @@ Body weight measurements demonstrated different responses between normal-diet an
 | IL-10 RD | 20.86 g | 16.95 g | -18.72% |
 | B/6 RD | 20.00 g | 18.82 g | -5.88% |
 
+
+<p align="center">
+  <img src="images/ND_graph.png" width="45%">
+  <img src="weight_week0_vs_week8.png" width="45%">
+</p>
 The restricted-diet groups showed a reduction in mean body weight, with a greater reduction observed in IL-10-deficient mice.
 
 ### 2. Serum Biochemical Profile
