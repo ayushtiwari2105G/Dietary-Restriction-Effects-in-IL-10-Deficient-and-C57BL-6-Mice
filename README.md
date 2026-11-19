@@ -151,6 +151,9 @@ These observations are descriptive. Statistical significance and biological inte
 
 ![Gene Expression Comparison](Code_Generated_Image.png)
 
+![Gene Expression Comparison](IL-10 ND VS RD.png)
+
+
 ### 3. Liver Histology
 
 H&E and PAS staining were used to investigate tissue architecture, cellular morphology, and carbohydrate-associated staining.
