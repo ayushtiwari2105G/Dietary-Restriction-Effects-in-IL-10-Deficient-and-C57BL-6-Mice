@@ -187,7 +187,11 @@ H&E and PAS staining were performed to examine liver tissue architecture, cellul
 | **Restricted Diet (IL-10-RD)** | **Restricted Diet (IL-10-RD)** |
 | <img src="il10_rd.png" width="350"> | <img src="il10_rd_pas.png" width="350"> |
 
-*Figure: Representative liver histological images showing H&E and PAS staining across normal diet and restricted diet groups in C57BL/6 and IL-10-deficient mice.*
+B/6 Strain (ND vs. RD): On H&E, switching from ND to RD causes clear hepatocyte shrinkage and loss of cytoplasmic clearing, shifting the cells to a compact, deeply eosinophilic state. The corresponding B/6-RD PAS stains confirm near-complete glycogen depletion, which aligns with your gene expression profile showing suppressed gluconeogenesis (PEPCK 0.44, G6Pase 0.84), suppressed lipogenesis (FAS 0.422, SCD-1 0.506), and elevated fatty acid oxidation (PPAR-b 3.676)
+
+IL-10 Strain (ND vs. RD): Under ND, IL-10 livers exhibit pronounced hepatocyte ballooning/clearing on H&E paired with intense, diffuse magenta positivity on PAS, indicative of heavy baseline glycogen accumulation. Under RD, PAS staining visibly decreases in intensity (consistent with the strong suppression of G6Pase to 0.15 in your 18sRNA dataset), yet H&E still shows prominent reticulated cytoplasmic clearing. (Note: A B/6-ND PAS image was not included in this set; adding it would provide a direct baseline comparison for B/6 glycogen depletion.)
+
+
 ## 🧬 Scientific Significance
 
 This research explores the interaction between nutritional restriction and impaired anti-inflammatory regulation.
