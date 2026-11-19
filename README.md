@@ -149,7 +149,7 @@ These observations are descriptive. Statistical significance and biological inte
 ### 3. Metabolic Markers 
 ## Gene Expression Analysis
 
-![Gene Expression Comparison](code_Generated_Image.png)
+![Gene Expression Comparison](Code_Generated_Image.png)
 
 ### 3. Liver Histology
 
