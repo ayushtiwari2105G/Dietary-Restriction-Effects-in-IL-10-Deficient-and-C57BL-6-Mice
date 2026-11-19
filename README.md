@@ -159,6 +159,28 @@ Compared to a Normal Diet (ND), a Restricted Diet (RD) triggers a major metaboli
 ### 3. Liver Histology
 
 H&E and PAS staining were used to investigate tissue architecture, cellular morphology, and carbohydrate-associated staining.
+<table>
+  <tr>
+    <td align="center">
+      <b>Image 1 – Normal Diet</b><br>
+      <img src="b6_nd.png" width="350">
+    </td>
+    <td align="center">
+      <b>Image 2 – Restricted Diet</b><br>
+      <img src="b6_pas_nd.png" width="350">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Image 3 – IL-10 ND</b><br>
+      <img src="b6_rd.png" width="350">
+    </td>
+    <td align="center">
+      <b>Image 4 – IL-10 RD</b><br>
+      <img src="b6_rd_pas.png" width="350">
+    </td>
+  </tr>
+</table>
 
 
 Histological observations are interpreted cautiously, with attention to tissue-processing artefacts and the limitations of representative microscopic fields.
