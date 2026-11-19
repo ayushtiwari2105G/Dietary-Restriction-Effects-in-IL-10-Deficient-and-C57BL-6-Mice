@@ -157,23 +157,29 @@ Compared to a Normal Diet (ND), a Restricted Diet (RD) triggers a major metaboli
 
 
 ### 3. Liver Histology
-## Liver Histopathological Analysis
+### Liver Histopathological Analysis
 
-H&E and PAS staining were used to examine liver tissue architecture, cellular morphology, and carbohydrate-associated staining patterns in C57BL/6 and IL-10-deficient mice under Normal Diet (ND) and Restricted Diet (RD) conditions.
+H&E and PAS staining were performed to examine liver tissue architecture, cellular morphology, and carbohydrate-associated staining patterns in C57BL/6 and IL-10-deficient mice under normal and restricted dietary conditions.
 
-### 1. C57BL/6 Mice
+#### 1. C57BL/6 Mice
 
-\<table>   \<tr>     \<th align="center">H&E Staining\</th>     \<th align="center">PAS Staining\</th>   \</tr>   \<tr>     \<td align="center">\<b>Normal Diet (B/6-ND)\</b>\<br>\<img src="b6_nd.png" width="350">\</td>     \<td align="center">\<b>Normal Diet (B/6-ND)\</b>\<br>\<img src="b6_pas_nd.png" width="350">\</td>   \</tr>   \<tr>     \<td align="center">\<b>Restricted Diet (B/6-RD)\</b>\<br>\<img src="b6_rd.png" width="350">\</td>     \<td align="center">\<b>Restricted Diet (B/6-RD)\</b>\<br>\<img src="b6_rd_pas.png" width="350">\</td>   \</tr> \</table>
+| H&E Staining | PAS Staining |
+|---|---|
+| **Normal Diet (B/6-ND)** | **Normal Diet (B/6-ND)** |
+| <img src="b6_nd.png" width="350"> | <img src="b6_pas_nd.png" width="350"> |
+| **Restricted Diet (B/6-RD)** | **Restricted Diet (B/6-RD)** |
+| <img src="b6_rd.png" width="350"> | <img src="b6_rd_pas.png" width="350"> |
 
-### 2. IL-10-Deficient Mice
+#### 2. IL-10-Deficient Mice
 
-\<table>   \<tr>     \<th align="center">H&E Staining\</th>     \<th align="center">PAS Staining\</th>   \</tr>   \<tr>     \<td align="center">\<b>Normal Diet (IL-10-ND)\</b>\<br>\<img src="il10_nd.png" width="350">\</td>     \<td align="center">\<b>Normal Diet (IL-10-ND)\</b>\<br>\<img src="il10_nd_pas.png" width="350">\</td>   \</tr>   \<tr>     \<td align="center">\<b>Restricted Diet (IL-10-RD)\</b>\<br>\<img src="il10_rd.png" width="350">\</td>     \<td align="center">\<b>Restricted Diet (IL-10-RD)\</b>\<br>\<img src="il10_rd_pas.png" width="350">\</td>   \</tr> \</table>
+| H&E Staining | PAS Staining |
+|---|---|
+| **Normal Diet (IL-10-ND)** | **Normal Diet (IL-10-ND)** |
+| <img src="il10_nd.png" width="350"> | <img src="il10_nd_pas.png" width="350"> |
+| **Restricted Diet (IL-10-RD)** | **Restricted Diet (IL-10-RD)** |
+| <img src="il10_rd.png" width="350"> | <img src="il10_rd_pas.png" width="350"> |
 
 *Figure: Representative liver histological images showing H&E and PAS staining across normal diet and restricted diet groups in C57BL/6 and IL-10-deficient mice.*
-
-
-Histological observations are interpreted cautiously, with attention to tissue-processing artefacts and the limitations of representative microscopic fields.
-
 ## 🧬 Scientific Significance
 
 This research explores the interaction between nutritional restriction and impaired anti-inflammatory regulation.
