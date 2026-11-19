@@ -151,7 +151,7 @@ These observations are descriptive. Statistical significance and biological inte
 
 ![Gene Expression Comparison](Code_Generated_Image.png)
 
-![Gene Expression Comparison](IL-10 ND VS RD.png)
+![Gene Expression Comparison](IL-10_ND_VS_RD.png)
 
 
 ### 3. Liver Histology
